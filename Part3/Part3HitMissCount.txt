@@ -1,0 +1,5 @@
+/* Part3: Hit Miss Count of programs */
+Prog1:  122304872  6686630
+Prog2:  2325248  185429
+Prog3:  8941530  519594
+Prog4:  933287  131689

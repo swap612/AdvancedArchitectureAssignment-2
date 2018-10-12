@@ -121,15 +121,4 @@ should be removed in this part. A memory block is said to be private if it is ac
 by exactly one thread in the entire trace. A memory block is said to be shared by
 exactly n threads if it is accessed by exactly n distinct threads in the trace.
 
-
-WHAT TO SUBMIT
----------------
-
-Prepare a zip ball of your submission (PIN tool, other codes, and the report; no binary 
-or trace please) and mail it to cs622submit2018@gmail.com. The report should contain
-the required number of machine accesses, the plots, and the tables backed by adequate
-explanations and comments. I will grade only those submissions with PDF reports. Make
-sure to name the zip ball groupX.zip where X is your group number. Please use only the `zip'
-utility for preparing your submission. Avoid using any other compression utilities due
-to possible portability issues.
 </pre>
